@@ -49,3 +49,4 @@ gc_content$gc_fraction <- gc_content$count.x / gc_content$count.y
 
 # Inspect result
 gc_content
+
